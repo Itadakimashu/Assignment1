@@ -202,3 +202,48 @@ footer p{
     justify-content: space-evenly;
     align-items: center;
 }
+
+
+
+
+
+/* Challenge */
+
+.user-review-section{
+    text-align: center;
+    padding: 50px;
+    margin: 100px 150px;
+
+}
+
+.user-reviews{
+    display: flex;
+    gap: 25px;
+    text-align: start;
+    justify-content: center;
+}
+
+.user-review{
+    max-width: 300px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 30px;
+}
+
+.user-info{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.user-info img{
+    border-radius: 50%;
+}
+
+.user-info p{
+    margin: 0;
+    color: #908EA7;
+}
+
+
+
