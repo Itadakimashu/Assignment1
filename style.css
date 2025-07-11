@@ -127,3 +127,45 @@ header{
     font-size: 20px;
     color: #8E8F9D;
 }
+
+
+
+/* Get in Touch */
+.in-touch-section{
+    display: flex;
+    padding: 50px;
+    margin: 100px 150px;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 30px;
+    background-color: #E5E7FF;
+}
+.in-touch-head{
+    max-width: 300px;
+    font-size: 50px;
+}
+
+.in-touch-form{
+    width: 300px;
+}
+
+.form-group{
+    margin-bottom: 20px;
+}
+
+.form-group label{
+    display: block;
+}
+
+input[type="text"], input[type="email"], textarea{
+    border-radius: 5px;
+    background-color: white;
+    min-height: 35px;
+    display: block;
+    width: 100%;
+    border: none;
+}
+
+.in-touch-form button{
+    width: 100%;
+}
